@@ -138,7 +138,6 @@ function App() {
       {isGameOver && <button className="new-game"
         onClick={() => window.location.reload()}
       > New Game</button>}
-      {console.log(currentWord)}
     </main>
   );
 }
