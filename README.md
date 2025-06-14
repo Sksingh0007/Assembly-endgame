@@ -80,10 +80,7 @@ Helper functions for farewell messages after incorrect guesses.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
-Made with ❤️ by \[Your Name] for the love of programming and React.
+Made with ❤️ by shivam for the love of programming and React.
