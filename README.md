@@ -2,6 +2,8 @@
 
 This project is a fun and interactive word-guessing game built using **React** and **Vite**. Players must guess the correct programming-related word within **8 attempts** before the fictional threat of Assembly takes over. The game includes visual progress, incorrect guess animations, and celebratory confetti when the player wins.
 
+🔗 **Live Demo:** [assembly-endgamee.netlify.app](https://assembly-endgamee.netlify.app)
+
 ## Features
 
 * 🧠 Random word selection from a predefined word list
